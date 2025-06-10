@@ -2,7 +2,7 @@
 // @name         Tema por hotel – Ulyses PMS Github
 // @namespace    https://orqui.ulysescloud.com
 // @version      1.1
-// @description  Cambia el color primario y el favicon según el hotel activo
+// @description  Cambia el color primario y el favicon según el hotel activo 1
 // @downloadURL  https://TU_USUARIO.github.io/pms-tema/pms-tema.user.js
 // @updateURL    https://TU_USUARIO.github.io/pms-tema/pms-tema.user.js
 // @match        https://orqui.ulysescloud.com/*
