@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Tema por hotel – Ulyses PMS Github
 // @namespace    https://orqui.ulysescloud.com
-// @version      1.1
+// @version      1.2
 // @description  Cambia el color primario y el favicon según el hotel activo
 // @downloadURL  https://miguel-ho.github.io/pms-tema/pms-tema.user.js
 // @updateURL    https://miguel-ho.github.io/pms-tema/pms-tema.user.js
@@ -24,7 +24,7 @@
             light: '#2f8649',
         },
         'HTA Hotel Tabur': {
-            hex: '#b36b00',
+            hex: '#b37b00',
             rgb: '179, 139, 0',
             dark: '#8f6f00',
             light: '#d5aa2a',
