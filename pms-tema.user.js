@@ -3,12 +3,13 @@
 // @namespace    https://orqui.ulysescloud.com
 // @version      1.1
 // @description  Cambia el color primario y el favicon según el hotel activo
-// @downloadURL  https://TU_USUARIO.github.io/pms-tema/pms-tema.user.js
-// @updateURL    https://TU_USUARIO.github.io/pms-tema/pms-tema.user.js
+// @downloadURL  https://miguel-ho.github.io/pms-tema/pms-tema.user.js
+// @updateURL    https://miguel-ho.github.io/pms-tema/pms-tema.user.js
 // @match        https://orqui.ulysescloud.com/*
 // @run-at       document-end
 // @grant        none
 // ==/UserScript==
+
 
 (() => {
 
