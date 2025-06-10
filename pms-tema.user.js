@@ -11,6 +11,8 @@
 // ==/UserScript==
 
 (() => {
+
+    //1
     const selector = 'body > ulyses-cloud > uc-navigation > navigation-desktop > div.color-navbar > nav > div > div.actions > div:nth-child(8) > button > span > span';
 
     const themes = {
