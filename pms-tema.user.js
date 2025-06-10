@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Tema por hotel – Ulyses PMS con favicon dinámico
+// @name         Tema por hotel – Ulyses PMS Github
 // @namespace    https://orqui.ulysescloud.com
 // @version      1.1
 // @description  Cambia el color primario y el favicon según el hotel activo
